@@ -1,0 +1,27 @@
+body{
+  background-image: url("images/babybg.gif");
+  margin-left: 10%;
+}
+h1{
+  text-align:center;
+  color: goldenrod;
+  
+}
+
+p{
+  text-align: center;
+  color:goldenrod;
+}
+
+h3{
+  text-align:center;
+  color:cornflowerblue;
+}
+img{
+  width:300px;
+  height:300px;
+}
+
+div{
+  font-family:imapct;
+}
